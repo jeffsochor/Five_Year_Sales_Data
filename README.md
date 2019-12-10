@@ -17,4 +17,4 @@ HTML, JavaScript, D3.js, Plotly, Bootstrap, CSS
 ## Project Description
 Our data was housed in PostgreSQL, which was accessed via queries written in Python and stored in RestfulAPIs. Flask Apps were also written in Python, which make our visualizations browser accessible for local presentations. Code was written in HTML, using Plotly libraries for choropleth maps and D3.js for line and bar charts.
 
-<img src="/Five_Year_Sales_Data/Project2-master/3ChoroplethFull.png">
+<img src="/Project2-master/3ChoroplethFull.png">
